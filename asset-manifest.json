@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fawad_portfolio/static/css/main.c6fa6970.css",
+    "main.js": "/fawad_portfolio/static/js/main.52577a87.js",
+    "static/js/787.1ed0c42c.chunk.js": "/fawad_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/contact1.png": "/fawad_portfolio/static/media/contact1.8ddfbfd11798f881db54.png",
+    "static/media/hero.png": "/fawad_portfolio/static/media/hero.ed993030dce11b1d2fb4.png",
+    "static/media/f_logo.png": "/fawad_portfolio/static/media/f_logo.dd7d4a386b8ed79f69a0.png",
+    "index.html": "/fawad_portfolio/index.html",
+    "main.c6fa6970.css.map": "/fawad_portfolio/static/css/main.c6fa6970.css.map",
+    "main.52577a87.js.map": "/fawad_portfolio/static/js/main.52577a87.js.map",
+    "787.1ed0c42c.chunk.js.map": "/fawad_portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fa6970.css",
+    "static/js/main.52577a87.js"
+  ]
+}
